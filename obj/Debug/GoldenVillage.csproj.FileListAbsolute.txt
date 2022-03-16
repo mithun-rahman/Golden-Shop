@@ -1,0 +1,4 @@
+D:\Golden Village\Golden Village\obj\Debug\GoldenVillage.csprojAssemblyReference.cache
+D:\Golden Village\Golden Village\obj\Debug\Golden_Village.Login.resources
+D:\Golden Village\Golden Village\obj\Debug\Golden_Village.Main.resources
+D:\Golden Village\Golden Village\obj\Debug\GoldenVillage.csproj.GenerateResource.cache
