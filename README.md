@@ -4,5 +4,5 @@ laborious task of the shopkeeper. A basic database management system was used fo
 balance sheets. This project helped the shopkeeper to automate the stock management, billings system, and sales records.
 
 By 
-A.R Tuhin (170214)
+A.R Tuhin (170214) and
 Mithun Rahman (170225)
